@@ -1,0 +1,29 @@
+.Heart-Rate {
+  text-align: center;
+  margin: 20px;
+}
+
+.input-container {
+  margin: 20px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  font-size: px;
+  background-color: rgb(64, 64, 241);
+  cursor: pointer;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.results {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
